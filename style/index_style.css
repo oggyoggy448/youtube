@@ -1,0 +1,6 @@
+main ul li a{
+    color: black;
+}
+main ul li:hover{
+    background-color: lightgray;
+}
